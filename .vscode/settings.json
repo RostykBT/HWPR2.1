@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "processing.h": "c",
+        "structures.h": "c",
+        "print.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
