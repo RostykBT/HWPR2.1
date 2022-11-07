@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-#include "functions.h"
-
+#include "input.h"
+#include "print.h"
+#include "structures.h"
+#include "processing.h"
 
 
 
@@ -20,8 +22,8 @@ int main(void) {
 
 	printHigherThanAverageIncome(peopleData, totalRead, averageIncome);
 
-	printf("\nThe program has been executed successfully.\n");
-	printf("Please check the output files (F2, F3) for the results.\n\n");
+	
+
 	
     return 0;   
 }

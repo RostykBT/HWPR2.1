@@ -2,7 +2,10 @@
     "files.associations": {
         "processing.h": "c",
         "structures.h": "c",
-        "print.h": "c"
+        "print.h": "c",
+        "functions.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }

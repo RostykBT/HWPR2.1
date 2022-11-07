@@ -1,0 +1,6 @@
+File with people younger than average age: 
+Russel 28 55.50 
+Verstappen 22 1.10 
+anhelina 17 11.50 
+Ivan 18 19.00 
+Rostyk 16 10.00 
